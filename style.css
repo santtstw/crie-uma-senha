@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Butcherman&display=swap');
+:root{
+    --branco:white; 
+    --cor-de-fundo:#5d5a56;
+    --fundo-senha:#808080; 
+    --fundo-texto:#808080; 
+    --borda:#1e1e1e; 
+    --fonte-principal: 'Butcherman';
+}
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+}
+.conteudo-titulo{
+    text-align: center;
+}
+*{
+    font-weight: 400;
+}
+.conteudo-senha{
+    margin-top: 80px;
+    background-color: var(--fundo-senha);
+    padding: 24px;
+    border-bottom: 6px solid var(--borda);
+}
