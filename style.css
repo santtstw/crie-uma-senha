@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Butcherman&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 :root{
     --branco:white; 
     --cor-de-fundo:#5d5a56;
     --fundo-senha:#808080; 
     --fundo-texto:#808080; 
     --borda:#1e1e1e; 
-    --fonte-principal: 'Butcherman';
+    --fonte-principal: 'Abriel Fatface';
 }
 body{
     background-color: var(--cor-de-fundo);
