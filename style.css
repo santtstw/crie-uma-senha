@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 :root{
     --branco:white; 
-    --cor-de-fundo:#A9C0D6;
-    --fundo-senha:#F1A7C4; 
+    --cor-de-fundo:#F4F4F4;
+    --fundo-senha:#D1D1D1; 
     --fundo-texto:#333333; 
-    --borda:#D1D7DC; 
+    --borda:#C0C0C0; 
     --fonte-principal: 'Abriel Fatface';
 }
 body{
